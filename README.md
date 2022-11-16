@@ -6,4 +6,4 @@ Los patrones de diseño son soluciones tipicas a problemas comunes en el diseño
 
 1. [Patron creacional](./Creational/README.md)
 2. [Patron estructural](./Structural/README.md)
-3. [Patron Comportacional](./Behavioral/README.md)
+3. [Patron comportacional](./Behavioral/README.md)
